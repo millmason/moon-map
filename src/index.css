@@ -9,19 +9,15 @@ code {
   font-family: monospace, monospace;
 }
 
-.billboard {
-  border: 1px solid black;
+.landmark {
   background: white;
-  padding: 12px;
-
-}
-
-.billboard .label {
-  font-weight: bold;
+  border: 2px solid black;
+  padding: 0 6px;
+  margin: 6px;
+  white-space: nowrap;
 }
 
 canvas {
   height: 100vh;
   width: 100vh;
 }
-
