@@ -1,5 +1,7 @@
 # Moon map
 
+![Screen Shot 2024-12-20 at 3 41 07 PM](https://github.com/user-attachments/assets/16a87fdb-eef9-42ad-87cb-23d2276c1495)
+
 This is a CRA! Run `yarn start` to get it going locally.
 
 Right now, all we have is a movable moon which can be manipulated using standard orbital controls.
@@ -11,6 +13,3 @@ All we actually have right now is the ability to log out WHERE someone has click
 Potential desired interactions:
 - If we have cards visible for all landmarks, clicking on a card will rotate the moon and zoom in so that we are looking at that landmark.
 - If a user clicks on a landmark on the globe, the card about that landmark will be highlighted.
-
-
-![Screen Shot 2024-12-20 at 3 41 07 PM](https://github.com/user-attachments/assets/16a87fdb-eef9-42ad-87cb-23d2276c1495)
